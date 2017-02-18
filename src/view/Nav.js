@@ -1,12 +1,12 @@
 import React, { Component } from 'react';
-import { Nav, NavItem, NavLink } from 'reactstrap';
+import { Nav, NavLink } from 'reactstrap';
 
 class Navigation extends Component {
     render(){
         return (
 
             <div className="inner">
-                <h3 className="masthead-brand">birdiec.github.io</h3>
+                <h3 className="masthead-brand">Ian Calaunan's Portfolio</h3>
                 <Nav className="nav-masthead">
                     <NavLink className="active" href="#">Home</NavLink>
                     <NavLink href="#">Features</NavLink>

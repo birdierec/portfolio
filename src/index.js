@@ -6,6 +6,7 @@ import 'bootstrap/dist/css/bootstrap.css';
 // import 'bootstrap/dist/js/bootstrap.js';
 // import './css/index.css';
 import './css/cover.css';
+import './css/carousel.css';
 
 ReactDOM.render(
   <App />,
