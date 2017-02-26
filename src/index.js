@@ -1,10 +1,8 @@
+import 'jquery';
+import 'bootstrap';
 import React from "react";
 import ReactDOM from "react-dom";
 import { Router, Route, IndexRoute, hashHistory } from "react-router";
-
-import 'bootstrap/dist/css/bootstrap.css';
-import './css/cover.css';
-import './css/carousel.css';
 
 import Home from "./pages/Home";
 import Contact from "./pages/Contact";
